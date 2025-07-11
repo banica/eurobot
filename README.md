@@ -1,2 +1,2 @@
-# eurobot
+# Eurobot
 Eurobot Senior &amp; Junior Project
